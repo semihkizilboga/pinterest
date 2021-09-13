@@ -1,4 +1,9 @@
-# vue-tailwind-template
+# Pinterest 
+
+## İnfo
+```
+VueJS / TailwindCSS / CSS
+```
 
 ## Project setup
 ```
