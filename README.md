@@ -1,2 +1,2 @@
-# pinterest-clone
-Pinterest.com - Vuetify/Vue/CSS
+# Pinterest
+Pinterest.com - Vue & TailwindCSS
